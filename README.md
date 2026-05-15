@@ -1,5 +1,7 @@
 # Atividade-Avaliativa-1---Recursividade-Estruturas-de-Dados-.
-Integrantes da Equipe: eduardo bersch 
+Integrantes da Equipe: 
+Eduardo Bersch 
+Gabriel Santana
 
 ativ 1: 
 import java.util.Scanner;
