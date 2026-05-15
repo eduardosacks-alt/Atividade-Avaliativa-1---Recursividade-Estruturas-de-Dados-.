@@ -151,6 +151,8 @@ public class TorresHanoi {
         
    resolverHanoi(discos, 'A', 'C', 'B', totalMovimentos);
 
+
+
  System.out.println("\n--- Estatisticas ---");
         System.out.println("Numero total de movimentos gerados: " + totalMovimentos.valor);
 
@@ -160,3 +162,5 @@ public class TorresHanoi {
         scanner.close();
     }
 }
+[WhatsApp Audio 2026-05-15 at 16.56.51 (2).zip](https://github.com/user-attachments/files/27815559/WhatsApp.Audio.2026-05-15.at.16.56.51.2.zip)
+
